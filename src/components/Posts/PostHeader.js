@@ -18,3 +18,6 @@ const PostHeader = props => {
 };
 
 export default PostHeader;
+
+
+//parent is Post
